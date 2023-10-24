@@ -1,0 +1,379 @@
+.one{
+    color: white;
+    font-weight: 800;
+    font-size: 50px;
+}
+.two{
+    color: white;
+    font-size: 20px;
+    padding-top: 35px;
+    line-height: 2.5;
+}
+#three{
+    color: white;
+    font-size: 20px;
+    padding-top: 35px;
+    padding-bottom: 30px;
+}
+.fiv{
+    /* background-color: blue; */
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    background-image: url(assets/happy-bearded-young-man-looks-with-joyful-expression-has-friendly-smile-wears-yellow-sweater-red-hat.jpg);
+    /* background-position-y: 1500px; */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position-x: -65px;
+    
+}
+.invesh{
+    color:white;
+    font-size: 30px;
+    font-weight: 600;
+    padding-top: 50px;
+}
+.invesp{
+    color: white;
+    font-size: 20px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+.invesh2{
+    color:black;
+    font-size: 30px;
+    font-weight: 600;
+    padding-top: 50px;
+
+}
+.invesp2{
+    color: black;
+    font-size: 20px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+
+}
+.f1{
+    color: white;
+    font-weight: 700;
+    font-size: 50px;
+}
+.f2{
+    color: white;
+    font-size: 25px;
+    padding-top: 20px;
+}
+.m1{
+    color: black;
+    font-weight: 900;
+    font-size: 45px;
+}
+.m2{
+    color: black;
+    font-size: 25px;
+    padding-top: 50px;
+    line-height:2;
+}
+.img1{
+    width: 200px;
+    height: 200px;
+    /* background-color: blue; */
+    border-radius: 50%;
+    background-image: url(assets/e.jpg);
+    /* background-position-x: -100px;
+    background-position-y:-100px; */
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: auto;
+   
+}
+.m3{
+    padding-top: 30px;
+    font-weight: 700;
+}
+.m4{
+    font-size: 20px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+.img2{
+    width: 200px;
+    height: 200px;
+    /* background-color: blue; */
+    border-radius: 50%;
+    background-image: url(assets/bfc62dcf-11dc-f72c-9f80-d5d6784457fc.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: auto;
+
+}
+.img3{
+    width: 200px;
+    height: 200px;
+    /* background-color: blue; */
+    border-radius: 50%;
+    background-image: url(assets/tytyt54.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: auto;
+}
+.img4{
+    width: 200px;
+    height: 200px;
+    /* background-color: blue; */
+    border-radius: 50%;
+    background-image: url(assets/trtrrt.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: auto;
+}
+.team{
+    background-color: #fff;
+    border-radius: 30px;
+    padding: 40px;
+}
+.teamh{
+    font-weight: 800;
+    color: black;
+    /* padding-top: 40px; */
+}
+.teamp{
+    font-size: 18px;
+    color: black;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+.timg1{
+    width: 350px;
+    height: 350px;
+    background-color: blue;
+    border-radius: 50%;
+    background-image: url(assets/woman-sitting-desk-checking-reports-talking.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: auto;
+}
+.timg2{
+    width: 350px;
+    height: 350px;
+    background-color:green;
+    border-radius: 50%;
+    background-image: url(assets/fashionable-young-redhead-woman-with-braid-tattoo-shoulder-having-rest-indoors.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position-x: -100px;
+    margin: auto;
+}
+.timg3{
+    width: 350px;
+    height: 350px;
+    background-color: blue;
+    border-radius: 50%;
+    background-image: url(assets/business-sucessful-businessman-working-with-laptop-using-computer-smiling-standing.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position-x: -100px;
+    margin: auto;
+}
+.timg4{
+    width: 350px;
+    height: 350px;
+    background-color: blue;
+    border-radius: 50%;
+    background-image: url(assets/group-people-working-out-business-plan-office.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position-x: -100px;
+    margin: auto;
+}
+.teamcontent{
+    background-color: #EE701C;
+    border-radius: 30px;
+    padding: 40px;
+}
+.coh{
+    font-size: 45px;
+    font-weight: 800;
+    color: #fff;
+}
+.one1{
+    color: #fff;
+    font-size: 50px;
+    font-weight: 800;
+    padding-top: 15px;
+}
+.two2{
+    color: #fff;
+    font-size: 80px;
+    font-weight: 700;
+    /* padding-top: 50px; */
+}
+.three3{
+    color: #fff;
+    font-size: 20px;
+    font-weight: 700;
+    padding-top: 10px;
+    /* padding-bottom: 30px; */
+}
+.li{
+    padding-top: 15px;
+    color:black;
+    list-style: square;
+    list-style-position: inside;
+    font-size: 25px;
+    line-height: 1.9;
+}
+.clienthead{
+    color: black;
+    font-size: 50px;
+    font-weight: 700;
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+.ch{
+    color: black;
+    font-weight: 800;
+    padding-top: 70px;
+}
+.cp{
+    font-size: 20px;
+    padding-bottom: 20px;
+    /* text-align: left; */
+}
+.cimg{
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    border-radius: 50%;
+    padding-top: 50px;
+    margin: auto;
+    background-image: url(assets/happy-bearded-young-man-looks-with-joyful-expression-has-friendly-smile-wears-yellow-sweater-red-hat.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position-x: -50px;
+}
+.cimg1{
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    border-radius: 50%;
+    padding-top: 50px;
+    margin: auto;
+    background-image: url(assets/positive-business-woman-posing-camera-outdoors.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position-x: -50px;
+}
+.contentimg1{
+    width: 150px;
+    height: 150px;
+    background-color:#20908b;
+    color: white;
+    border-radius: 50%;
+    background-image: url(assets/download\ \(4\).png );
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: auto;
+}
+.conh{
+    color: black;
+    font-weight: 700;
+    padding-top: 20px;
+}
+.contentimg2{
+    width: 150px;
+    height: 150px;
+    background-color:#20908b;
+    padding: 2px;
+    color: white;
+    border-radius: 50%;
+    background-image: url(assets/download\ \(3\).png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: auto;
+}
+.contentimg3{
+    width: 150px;
+    height: 150px;
+    background-color:#20908b;
+    padding: 2px;
+    color: white;
+    border-radius: 50%;
+    background-image: url(assets/download.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: auto;
+}
+.emailh{
+    color: white;
+    font-weight: 700;
+    font-size: 70px;
+}
+.button{
+    padding-left: 70px;
+    padding-right: 70px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-radius: 20px;
+    font-size: 20px;
+    color: white;
+    font-weight: 700;
+    background-color: #EE701C;
+    border-style: none;
+}
+button:hover{
+    background-color: black;
+    color: white;
+}
+.emailp{
+    color: white;
+    font-size: 22px;
+}
+.formimg{
+    width: 400px;
+    height: 400px;
+    background-color: aqua;
+    border-radius: 50%;
+    background-image: url(assets/5fdfa8af-fbd4-40ce-aa0b-03fbc80c2a7e.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position-x: -100px;
+    position: relative;
+}
+.form{
+    width: 100px;
+    height: 100px;
+    background-color: #EE701C;
+    color: white;
+    border-radius: 50%;
+    background-image: url(assets/—Pngtree—yellow\ mobile\ phone\ signal\ identification_7180775.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 50px;
+    position: absolute;
+    left: 280px;
+}
+label{
+    font-size: 20px;
+    font-weight: 700px;
+}
+.formbutton1{
+    background-color: #20908b;
+    padding-left: 150px;
+    padding-right: 150px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    border-radius: 10px;
+    border-style: none;
+    font-size: 20px;
+    font-weight: 700;
+}
+.footer{
+    color: white;
+    font-size: 20px;
+    padding-top: 50px;
+}
+.footer2{
+    padding-top: 20px;
+    font-size: 18px;
+}
